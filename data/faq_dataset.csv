@@ -1,0 +1,50 @@
+id,categorie,question,reponse
+1,menu,Quels sont les burgers disponibles ?,"Nous proposons plusieurs burgers : Giant, Bacon Cheese, Double Giant, Chicken et bien d'autres selon les offres du moment."
+2,menu,Est-ce que vous avez des menus végétariens ?,Oui nous proposons des options végétariennes comme le Giant Veggie. Consultez notre carte pour les disponibilités.
+3,menu,Quels sont les accompagnements disponibles ?,"Vous pouvez choisir entre frites classiques, potatoes, salade ou onion rings selon les menus."
+4,menu,Est-ce que vous avez des desserts ?,"Oui nous proposons des sundaes, muffins et autres desserts selon les disponibilités du restaurant."
+5,menu,Quelles sont les boissons disponibles ?,"Nous proposons des sodas, jus de fruits, eau, café et milkshakes selon les restaurants."
+6,allergenes,Est-ce que vos produits contiennent du gluten ?,Oui la plupart de nos pains contiennent du gluten. Consultez notre fiche allergènes disponible en restaurant ou sur notre site.
+7,allergenes,Est-ce que vous avez des produits sans lactose ?,Certains produits sont sans lactose. Demandez la fiche allergènes complète en restaurant.
+8,allergenes,Est-ce que vos frites contiennent des allergènes ?,Nos frites peuvent contenir des traces de gluten et sont cuites dans une huile partagée. Consultez notre fiche allergènes.
+9,allergenes,Je suis allergique aux arachides puis-je manger chez vous ?,Nous vous recommandons de consulter notre fiche allergènes complète et d'en informer notre équipe avant de commander.
+10,allergenes,Où puis-je trouver la liste complète des allergènes ?,La fiche allergènes est disponible sur notre site internet et affichée en restaurant sur demande.
+11,horaires,Quels sont vos horaires d'ouverture ?,Nos restaurants sont généralement ouverts de 10h à 23h du lundi au dimanche. Les horaires peuvent varier selon les restaurants.
+12,horaires,Êtes-vous ouverts le dimanche ?,Oui la plupart de nos restaurants sont ouverts le dimanche. Vérifiez les horaires de votre restaurant sur notre site.
+13,horaires,Êtes-vous ouverts les jours fériés ?,Oui nous sommes généralement ouverts les jours fériés avec des horaires adaptés.
+14,horaires,À quelle heure fermez-vous ?,Nos restaurants ferment généralement à 23h en semaine et minuit le week-end. Vérifiez selon votre restaurant.
+15,horaires,Faites-vous le service en continu ?,Oui nous servons en continu de l'ouverture à la fermeture sans interruption.
+16,commande,Est-ce que je peux commander en ligne ?,Oui vous pouvez commander sur notre application ou site internet pour la livraison ou le click and collect.
+17,commande,Est-ce que vous faites la livraison à domicile ?,Oui nous livrons via notre application et des plateformes partenaires comme Uber Eats et Deliveroo selon votre zone.
+18,commande,Comment fonctionne le click and collect ?,"Commandez sur notre app ou site, choisissez votre restaurant et récupérez votre commande directement au comptoir."
+19,commande,Est-ce que je peux modifier ma commande après validation ?,Une fois la commande validée il n'est plus possible de la modifier. Contactez directement le restaurant.
+20,commande,Est-ce que vous acceptez les commandes de groupe ?,Oui nous acceptons les commandes de groupe. Pour les grandes quantités contactez directement le restaurant.
+21,paiement,Quels moyens de paiement acceptez-vous ?,"Nous acceptons les espèces, cartes bancaires, tickets restaurant et paiement sans contact."
+22,paiement,Est-ce que vous acceptez les tickets restaurant ?,Oui nous acceptons les tickets restaurant papier et dématérialisés.
+23,paiement,Est-ce que je peux payer en espèces ?,Oui le paiement en espèces est accepté dans tous nos restaurants.
+24,paiement,Est-ce que vous acceptez Apple Pay et Google Pay ?,Oui nous acceptons les paiements sans contact via Apple Pay et Google Pay.
+25,paiement,Est-ce que je peux payer en plusieurs fois ?,Non nous n'acceptons pas le paiement en plusieurs fois.
+26,promotions,Est-ce que vous avez des promotions en ce moment ?,Retrouvez toutes nos offres et promotions sur notre application et notre site internet.
+27,promotions,Comment fonctionne votre programme de fidélité ?,Notre programme de fidélité est disponible via notre application. Cumulez des points à chaque achat et obtenez des réductions.
+28,promotions,Est-ce que vous proposez des menus étudiants ?,Nous proposons régulièrement des offres spéciales. Consultez notre application pour les promotions du moment.
+29,promotions,Avez-vous des offres Happy Hour ?,Consultez notre application et notre site pour découvrir nos offres du moment selon les restaurants.
+30,promotions,Comment obtenir des coupons de réduction ?,Téléchargez notre application pour accéder à des offres exclusives et des coupons de réduction.
+31,reclamation,J'ai reçu une commande incorrecte que faire ?,Nous nous excusons pour ce désagrément. Contactez directement le restaurant ou notre service client pour trouver une solution.
+32,reclamation,Je n'ai pas reçu ma commande en livraison ?,Contactez le service client de la plateforme de livraison utilisée ou appelez directement le restaurant.
+33,reclamation,Comment contacter le service client ?,Vous pouvez nous contacter via notre site internet notre application ou directement en restaurant.
+34,reclamation,Je voudrais faire une réclamation sur la qualité ?,Nous sommes désolés. Contactez notre service client via notre site ou revenez directement en restaurant avec votre ticket de caisse.
+35,reclamation,J'ai été débité deux fois que faire ?,Contactez votre banque et notre service client en conservant votre preuve de paiement.
+36,restaurant,Est-ce que vous avez un parking ?,Cela dépend du restaurant. Consultez la fiche de votre restaurant sur notre site pour les informations pratiques.
+37,restaurant,Est-ce que votre restaurant est accessible aux personnes handicapées ?,La plupart de nos restaurants sont accessibles. Contactez directement le restaurant pour confirmer.
+38,restaurant,Est-ce que vous avez une aire de jeux pour enfants ?,Certains de nos restaurants disposent d'une aire de jeux. Consultez la fiche du restaurant sur notre site.
+39,restaurant,Est-ce que vous avez la wifi ?,Certains restaurants proposent le wifi gratuit. Renseignez-vous directement auprès du restaurant.
+40,restaurant,Où se trouve le restaurant le plus proche ?,Utilisez le localisateur de restaurants sur notre site ou application pour trouver le restaurant le plus proche.
+41,promotions,Avez-vous des promotions en ce moment ?,Oui nous avons régulièrement des promotions comme le Giant en duo à prix réduit et des offres spéciales sur l'application. Consultez notre site ou l'app pour les offres en cours.
+42,promotions,Quelles sont vos offres spéciales du moment ?,Nous proposons des offres comme le menu à petit prix et des réductions via notre programme de fidélité. Vérifiez les offres actuelles sur notre application.
+43,promotions,Y a-t-il des coupons de réduction disponibles ?,Vous pouvez trouver des coupons de réduction sur notre application et notre site internet. Inscrivez-vous à notre newsletter pour recevoir des offres exclusives.
+44,promotions,Est-ce que vous avez un programme de fidélité ?,Oui notre programme de fidélité vous permet de cumuler des points à chaque achat et de les échanger contre des réductions et des produits gratuits.
+45,promotions,Est-ce que vous faites des offres spéciales pour les étudiants ?,Oui nous proposons des offres spéciales pour les étudiants à présenter avec votre carte étudiant. Les offres varient selon les périodes.
+46,promotions,Quels sont les menus du moment ?,Nous avons régulièrement des menus en édition limitée et des burgers saisonniers. Consultez notre carte en ligne pour découvrir les menus du moment.
+47,nouveautés,Avez-vous des nouveaux produits ?,Oui nous lançons régulièrement de nouveaux produits comme des burgers éphémères et des sides saisonniers. Suivez-nous sur les réseaux sociaux pour les annonces.
+48,nouveautés,Quels sont les nouveaux burgers disponibles ?,Nos nouveaux burgers varient selon les saisons. Actuellement nous proposons des recettes avec des ingrédients tendance comme le pulled pork ou le chèvre.
+49,nouveautés,Y a-t-il des nouvelles frites ou accompagnements ?,Nous introduisons régulièrement de nouveaux accompagnements comme les wedges épicés ou les onion rings au barbecue selon les saisons.

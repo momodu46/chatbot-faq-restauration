@@ -1,0 +1,121 @@
+{
+  "enseigne": "KFC",
+  "site": "https://www.kfc.fr",
+  "halal": "Pas de certification halal officielle",
+  "pdf_allergenes": "https://www.kfc.fr/nutrition/allergenes",
+  "pdf_nutrition": "https://www.kfc.fr/nutrition",
+  "en_ce_moment": [
+    {"nom": "Bucket de retour", "prix": 14.90, "description": "Bucket XXL avec 2 recettes au choix, format familial"},
+    {"nom": "Wrap'up Box", "prix": 11.50, "description": "Box avec wrap, frites, boisson et sauce"},
+    {"nom": "KFC Box 2 Saveurs", "prix": 19.90, "description": "Box à partager avec 2 recettes de poulet différentes"}
+  ],
+  "menus": {
+    "Burgers": [
+      {"nom": "Classic Chicken", "prix": 5.80, "description": "Filet de poulet pané, salade, mayonnaise", "calories": 440, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"], "ingredients": ["pain bun", "filet poulet pané", "salade", "mayonnaise"]},
+      {"nom": "Double Classic Chicken", "prix": 7.50, "description": "Double filet de poulet pané, salade, mayonnaise", "calories": 580, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"]},
+      {"nom": "Spicy Chicken", "prix": 6.20, "description": "Filet de poulet épicé pané, salade, sauce spicy", "calories": 460, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"], "ingredients": ["pain bun", "filet poulet épicé pané", "salade", "sauce spicy"]},
+      {"nom": "Crispy Chicken", "prix": 6.50, "description": "Filet de poulet extra-croustillant, salade, tomate, sauce", "calories": 490, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"]},
+      {"nom": "Tower Burger", "prix": 7.20, "description": "Filet poulet pané, cheddar, bacon, salade, tomate, sauce tower", "calories": 560, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"], "ingredients": ["pain bun", "filet poulet pané", "cheddar", "bacon de poulet", "salade", "tomate", "sauce tower"]},
+      {"nom": "Double Tower", "prix": 8.90, "description": "Double filet poulet, cheddar, bacon, sauce tower", "calories": 700, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"]},
+      {"nom": "BBQ Burger", "prix": 6.80, "description": "Filet poulet pané, cheddar, oignons frits, sauce BBQ", "calories": 510, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"]},
+      {"nom": "Double BBQ", "prix": 8.50, "description": "Double filet poulet, cheddar, oignons frits, sauce BBQ", "calories": 670, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"]},
+      {"nom": "King Size Chicken", "prix": 9.90, "description": "Triple filet de poulet pané, cheddar, bacon, sauce", "calories": 820, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"]}
+    ],
+    "Wraps": [
+      {"nom": "Wrap Classic", "prix": 5.90, "description": "Filet poulet pané, salade, mayonnaise, tortilla", "calories": 380, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"]},
+      {"nom": "Wrap Spicy", "prix": 6.20, "description": "Filet poulet épicé, salade, sauce spicy, tortilla", "calories": 390, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"]},
+      {"nom": "Wrap Tower", "prix": 6.90, "description": "Filet poulet pané, cheddar, bacon, salade, sauce tower", "calories": 430, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"]},
+      {"nom": "Wrap Veggie", "prix": 5.90, "description": "Galette végétale, salade, crudités, sauce", "calories": 320, "allergenes": ["gluten", "lait", "soja"], "traces": ["oeuf", "sesame"]}
+    ],
+    "Buckets": [
+      {"nom": "Bucket 6 pièces", "prix": 12.90, "description": "6 morceaux de poulet (ailes/hauts de cuisse), frites, sauce", "calories": 1100, "allergenes": ["gluten", "lait", "soja", "moutarde"]},
+      {"nom": "Bucket 8 pièces", "prix": 16.50, "description": "8 morceaux de poulet, frites, sauces", "calories": 1500, "allergenes": ["gluten", "lait", "soja", "moutarde"]},
+      {"nom": "Bucket 12 pièces", "prix": 22.90, "description": "12 morceaux de poulet, grandes frites, sauces, à partager", "calories": 2200, "allergenes": ["gluten", "lait", "soja", "moutarde"]},
+      {"nom": "Bucket 16 pièces", "prix": 28.90, "description": "16 morceaux de poulet, grandes frites, sauces, familial", "calories": 2900, "allergenes": ["gluten", "lait", "soja", "moutarde"]}
+    ],
+    "Strips & Nuggets": [
+      {"nom": "3 Chicken Strips", "prix": 5.20, "description": "3 strips de poulet pané", "calories": 240, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]},
+      {"nom": "5 Chicken Strips", "prix": 7.90, "description": "5 strips de poulet pané", "calories": 400, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]},
+      {"nom": "10 Chicken Strips", "prix": 14.90, "description": "10 strips de poulet pané, format familial", "calories": 800, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]},
+      {"nom": "4 Nuggets", "prix": 3.90, "description": "4 nuggets de poulet", "calories": 180, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]},
+      {"nom": "6 Nuggets", "prix": 5.50, "description": "6 nuggets de poulet", "calories": 270, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]},
+      {"nom": "10 Nuggets", "prix": 8.50, "description": "10 nuggets de poulet", "calories": 450, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]},
+      {"nom": "20 Nuggets", "prix": 15.90, "description": "20 nuggets de poulet, format familial", "calories": 900, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]}
+    ],
+    "Menus": [
+      {"nom": "Menu Classic Chicken", "prix": 8.90, "description": "Classic Chicken + frites moyennes + boisson", "calories": 820},
+      {"nom": "Menu Double Classic", "prix": 10.50, "description": "Double Classic + frites + boisson", "calories": 960},
+      {"nom": "Menu Spicy Chicken", "prix": 9.30, "description": "Spicy Chicken + frites + boisson", "calories": 840},
+      {"nom": "Menu Crispy Chicken", "prix": 9.60, "description": "Crispy Chicken + frites + boisson", "calories": 870},
+      {"nom": "Menu Tower Burger", "prix": 10.30, "description": "Tower Burger + frites + boisson", "calories": 940},
+      {"nom": "Menu BBQ Burger", "prix": 9.90, "description": "BBQ Burger + frites + boisson", "calories": 890},
+      {"nom": "Menu Wrap Classic", "prix": 9.00, "description": "Wrap Classic + frites + boisson", "calories": 760},
+      {"nom": "Menu Wrap Tower", "prix": 10.00, "description": "Wrap Tower + frites + boisson", "calories": 810},
+      {"nom": "Menu 6 Nuggets", "prix": 8.50, "description": "6 nuggets + frites + boisson", "calories": 650},
+      {"nom": "Menu 10 Nuggets", "prix": 11.00, "description": "10 nuggets + frites + boisson", "calories": 830},
+      {"nom": "Menu 3 Strips", "prix": 8.90, "description": "3 strips + frites + boisson", "calories": 620},
+      {"nom": "Menu 5 Strips", "prix": 11.50, "description": "5 strips + frites + boisson", "calories": 780},
+      {"nom": "Menu King Size", "prix": 13.50, "description": "King Size Chicken + frites + boisson", "calories": 1200}
+    ],
+    "Enfants": [
+      {"nom": "Bucket Kid 3 pièces", "prix": 5.50, "description": "3 morceaux de poulet + petite frite + boisson + jouet", "calories": 450},
+      {"nom": "Kid Nuggets 4 pièces", "prix": 5.00, "description": "4 nuggets + petite frite + boisson + jouet", "calories": 380}
+    ],
+    "Frites & Accompagnements": [
+      {"nom": "Petite Frite", "prix": 2.80, "description": "Petite portion de frites", "calories": 220},
+      {"nom": "Moyenne Frite", "prix": 3.50, "description": "Moyenne portion de frites", "calories": 340},
+      {"nom": "Grande Frite", "prix": 4.00, "description": "Grande portion de frites", "calories": 460},
+      {"nom": "Frites Cheddar Bacon", "prix": 5.90, "description": "Grandes frites, cheddar fondant, bacon", "calories": 620, "allergenes": ["gluten", "lait"]},
+      {"nom": "Potatoes", "prix": 3.80, "description": "Potatoes épicées", "calories": 310},
+      {"nom": "Maïs (3 pièces)", "prix": 3.00, "description": "Épis de maïs", "calories": 120}
+    ],
+    "Salades": [
+      {"nom": "Salade Classic", "prix": 7.50, "description": "Salade verte, tomate, maïs, poulet pané", "calories": 280, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"]},
+      {"nom": "Salade Caesar Poulet", "prix": 8.50, "description": "Salade Caesar, poulet pané, parmesan, croûtons", "calories": 350, "allergenes": ["gluten", "lait", "oeuf", "poisson", "soja", "moutarde"]}
+    ],
+    "Desserts": [
+      {"nom": "Cookie Chocolat", "prix": 2.50, "description": "Cookie aux pépites de chocolat", "calories": 220, "allergenes": ["gluten", "lait", "oeuf", "soja"]},
+      {"nom": "Cookie Caramel", "prix": 2.50, "description": "Cookie au caramel", "calories": 230, "allergenes": ["gluten", "lait", "oeuf", "soja"]},
+      {"nom": "Brownie", "prix": 2.80, "description": "Brownie au chocolat", "calories": 290, "allergenes": ["gluten", "lait", "oeuf", "soja"]},
+      {"nom": "Cinnamon Twists (3)", "prix": 3.50, "description": "3 torsades à la cannelle", "calories": 240, "allergenes": ["gluten", "lait", "oeuf", "soja"]},
+      {"nom": "Milkshake Vanille", "prix": 3.90, "description": "Milkshake vanille", "calories": 320, "allergenes": ["lait", "soja"]},
+      {"nom": "Milkshake Chocolat", "prix": 3.90, "description": "Milkshake chocolat", "calories": 350, "allergenes": ["lait", "soja"]},
+      {"nom": "Milkshake Fraise", "prix": 3.90, "description": "Milkshake fraise", "calories": 310, "allergenes": ["lait", "soja"]}
+    ],
+    "Boissons": [
+      {"nom": "Coca-Cola (33cl)", "prix": 2.80, "calories": 140},
+      {"nom": "Coca-Cola Zéro (33cl)", "prix": 2.80, "calories": 1},
+      {"nom": "Sprite (33cl)", "prix": 2.80, "calories": 135},
+      {"nom": "Fanta Orange (33cl)", "prix": 2.80, "calories": 140},
+      {"nom": "Oasis Tropical (33cl)", "prix": 2.80, "calories": 120},
+      {"nom": "Fuze Tea Pêche (33cl)", "prix": 2.80, "calories": 100},
+      {"nom": "Eau Plate 50cl", "prix": 2.50, "calories": 0},
+      {"nom": "Eau Gazeuse 50cl", "prix": 2.70, "calories": 0},
+      {"nom": "Jus d'Orange (25cl)", "prix": 3.00, "calories": 110}
+    ],
+    "Sauces": [
+      {"nom": "Ketchup", "prix": 0.30, "calories": 10},
+      {"nom": "Mayonnaise", "prix": 0.40, "calories": 90, "allergenes": ["oeuf", "moutarde"]},
+      {"nom": "Barbecue", "prix": 0.40, "calories": 25, "allergenes": ["moutarde"]},
+      {"nom": "Spicy", "prix": 0.40, "calories": 20},
+      {"nom": "Curry", "prix": 0.40, "calories": 30},
+      {"nom": "Creamy Ranch", "prix": 0.40, "calories": 70, "allergenes": ["lait", "oeuf"]},
+      {"nom": "Sauce Tower", "prix": 0.40, "calories": 65, "allergenes": ["oeuf", "moutarde"]},
+      {"nom": "Sauce Andalouse", "prix": 0.40, "calories": 60, "allergenes": ["oeuf", "moutarde"]}
+    ]
+  },
+  "promotions": [
+    {"titre": "Potatoes offertes avec tout menu", "description": "Remplacez les frites par des potatoes offertes dans tous les menus. Offre valable en restaurant.", "prix": null},
+    {"titre": "Menu Wrap'up à 10€", "description": "Menu Wrap'up à seulement 10€ au lieu de 11.50€. Offre du moment.", "prix": 10.00},
+    {"titre": "Mardi Poulet", "description": "Tous les mardis : offre spéciale sur les buckets et les menus. Vérifiez en restaurant.", "prix": null},
+    {"titre": "Application KFC", "description": "Téléchargez l'application KFC pour des offres exclusives, le programme de fidélité et commander à l'avance.", "prix": null},
+    {"titre": "Bucket XXL à partager", "description": "Le bucket XXL 16 pièces à 28.90€, idéal pour 3-4 personnes.", "prix": 28.90},
+    {"titre": "Menu Enfant à 5€", "description": "Bucket Kid ou Kid Nuggets à 5€ avec jouet inclus.", "prix": 5.00}
+  ],
+  "horaires": {
+    "sur_place": {"lundi": "11:00-22:00", "mardi": "11:00-22:00", "mercredi": "11:00-22:00", "jeudi": "11:00-22:00", "vendredi": "11:00-23:00", "samedi": "11:00-23:00", "dimanche": "11:00-22:00"},
+    "drive": {"lundi": "11:00-23:00", "mardi": "11:00-23:00", "mercredi": "11:00-23:00", "jeudi": "11:00-23:00", "vendredi": "11:00-00:00", "samedi": "11:00-00:00", "dimanche": "11:00-23:00"},
+    "delivery": {"lundi": "11:00-22:30", "mardi": "11:00-22:30", "mercredi": "11:00-22:30", "jeudi": "11:00-22:30", "vendredi": "11:00-23:30", "samedi": "11:00-23:30", "dimanche": "11:00-22:30"}
+  },
+  "services": ["Wi-Fi gratuit", "Parking", "Terrasse", "Accessible PMR", "Drive", "Livraison", "Application mobile", "Click & Collect", "Plats à emporter", "Anniversaire"]
+}

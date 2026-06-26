@@ -1,0 +1,9 @@
+﻿.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+streamlit_out.txt
+streamlit_err.txt
+venv/
+.venv/

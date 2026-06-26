@@ -1,0 +1,183 @@
+{
+  "enseigne": "Burger King",
+  "site": "https://www.burgerking.fr",
+  "halal": "Pas de certification halal officielle (sauf restaurants participants)",
+  "pdf_allergenes": "https://ecoceabkstorageprdnorth.blob.core.windows.net/custom-pages/2026/03/crousty/Tableau_allergenes_clients_BK_CROUSTY_10_03_2026.pdf",
+  "pdf_nutrition": "https://www.burgerking.fr/page/liste-allergenes",
+  "en_ce_moment": [
+    {"nom": "Hellfire Club", "prix": 8.00, "description": "Burger épicé en édition limitée"},
+    {"nom": "Hellfire Club Veggie", "prix": 8.00, "description": "Version végétarienne du Hellfire Club"},
+    {"nom": "Master Montagnard", "prix": 12.50, "description": "Burger montagnard, boeuf, reblochon, pommes de terre"},
+    {"nom": "Master Rösti Poulet Montagnard", "prix": 12.50, "description": "Burger montagnard au poulet, reblochon, rösti"},
+    {"nom": "Krispper Tenders X5", "prix": 8.50, "description": "Tenders de poulet croustillants, nouvelle recette"}
+  ],
+  "menus": {
+    "Burgers Boeuf": [
+      {"nom": "Whopper", "prix": 7.90, "description": "Le burger emblématique BK : steak haché grillé à la flamme, tomate, salade, oignon, cornichons, ketchup, mayonnaise", "calories": 657, "allergenes": ["gluten", "oeuf", "soja"], "traces": ["lait", "sesame"], "ingredients": ["pain sesame", "steak boeuf haché grillé à la flamme", "tomate", "salade", "oignon", "cornichons", "ketchup", "mayonnaise"]},
+      {"nom": "Whopper Cheese", "prix": 8.90, "description": "Whopper avec cheddar fondu", "calories": 740, "allergenes": ["gluten", "lait", "oeuf", "soja"], "traces": ["sesame"], "ingredients": ["pain sesame", "steak boeuf", "cheddar", "tomate", "salade", "oignon", "cornichons", "ketchup", "mayonnaise"]},
+      {"nom": "Double Whopper", "prix": 8.41, "description": "Whopper avec double steak", "calories": 900, "allergenes": ["gluten", "oeuf", "soja"], "traces": ["lait", "sesame"], "ingredients": ["pain sesame", "double steak boeuf", "tomate", "salade", "oignon", "cornichons", "ketchup", "mayonnaise"]},
+      {"nom": "Double Whopper Cheese", "prix": 9.90, "description": "Double Whopper avec cheddar", "calories": 1000, "allergenes": ["gluten", "lait", "oeuf", "soja"], "traces": ["sesame"]},
+      {"nom": "Big King", "prix": 6.50, "description": "Double steak, cheddar, salade, sauce spéciale", "calories": 530, "allergenes": ["gluten", "lait", "oeuf", "soja"], "traces": ["sesame", "moutarde"], "ingredients": ["pain brioché", "double steak boeuf", "cheddar", "salade", "oignon", "cornichons", "sauce Big King"]},
+      {"nom": "Big King XXL", "prix": 9.80, "description": "Version XXL du Big King, plus de viande et de fromage", "calories": 890, "allergenes": ["gluten", "lait", "oeuf", "soja"], "traces": ["sesame", "moutarde"]},
+      {"nom": "Steakhouse", "prix": 8.90, "description": "Steak grillé, cheddar, bacon, oignons frits, sauce BBQ", "calories": 795, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"], "ingredients": ["pain brioché", "steak boeuf", "cheddar", "bacon de poulet", "oignons frits", "sauce BBQ"]},
+      {"nom": "Double Steakhouse", "prix": 10.50, "description": "Double steak, cheddar, bacon, oignons frits, sauce BBQ", "calories": 1000, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"]},
+      {"nom": "Hamburger", "prix": 2.90, "description": "Burger simple boeuf", "calories": 260, "allergenes": ["gluten", "soja"], "traces": ["lait", "sesame", "moutarde"]},
+      {"nom": "Cheeseburger", "prix": 3.90, "description": "Cheeseburger classique", "calories": 300, "allergenes": ["gluten", "lait", "soja"], "traces": ["sesame", "moutarde"]},
+      {"nom": "Double Cheeseburger", "prix": 4.90, "description": "Double cheeseburger", "calories": 390, "allergenes": ["gluten", "lait", "soja"], "traces": ["oeuf", "sesame", "moutarde"]},
+      {"nom": "Double Cheese Bacon", "prix": 5.50, "description": "Double cheese avec bacon", "calories": 450, "allergenes": ["gluten", "lait", "soja"], "traces": ["oeuf", "sesame", "moutarde"]},
+      {"nom": "Double Cheese Bacon XXL", "prix": 9.90, "description": "Double cheese bacon format XXL", "calories": 700, "allergenes": ["gluten", "lait", "oeuf", "soja"], "traces": ["sesame", "moutarde"]},
+      {"nom": "Rodeo Burger", "prix": 2.33, "description": "Burger boeuf, oignons frits, sauce BBQ", "calories": 290, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]},
+      {"nom": "Double King", "prix": 3.90, "description": "Double burger boeuf, cheddar", "calories": 380, "allergenes": ["gluten", "lait", "soja"], "traces": ["oeuf", "sesame"]},
+      {"nom": "Bacon Cheeseburger", "prix": 4.20, "description": "Cheeseburger avec bacon", "calories": 340, "allergenes": ["gluten", "lait", "soja"], "traces": ["oeuf", "sesame", "moutarde"]},
+      {"nom": "Bacon King", "prix": 8.87, "description": "Le king du bacon : double steak, cheddar, bacon, sauce smokey", "calories": 850, "allergenes": ["gluten", "lait", "oeuf", "soja"], "traces": ["sesame"]}
+    ],
+    "Burgers Poulet": [
+      {"nom": "Long Chicken", "prix": 5.13, "description": "Sandwich poulet pané longue forme", "calories": 570, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"], "ingredients": ["pain long", "filet poulet pané", "salade", "sauce mayonnaise"]},
+      {"nom": "Chicken Royale", "prix": 6.50, "description": "Poulet pané croustillant, salade, tomate, mayonnaise", "calories": 480, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"]},
+      {"nom": "Crispy Chicken Cheese", "prix": 7.10, "description": "Poulet croustillant, cheddar, sauce", "calories": 520, "allergenes": ["gluten", "lait", "oeuf", "soja"], "traces": ["sesame", "moutarde"]},
+      {"nom": "Chicken Louisiane Steakhouse", "prix": 9.90, "description": "Poulet pané, cheddar, bacon, oignons frits, sauce BBQ", "calories": 680, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"]},
+      {"nom": "Spicy Ch'King", "prix": 6.07, "description": "Poulet épicé croustillant, salade, cornichons, sauce spicy", "calories": 500, "allergenes": ["gluten", "lait", "oeuf", "soja"], "traces": ["sesame", "moutarde"]},
+      {"nom": "Original Chicken Sandwich", "prix": 5.13, "description": "Sandwich poulet classique", "calories": 450, "allergenes": ["gluten", "lait", "oeuf", "soja"], "traces": ["sesame", "moutarde"]},
+      {"nom": "King Chicken", "prix": 3.90, "description": "Burger poulet simple", "calories": 380, "allergenes": ["gluten", "lait", "oeuf", "soja"], "traces": ["sesame", "moutarde"]},
+      {"nom": "Master Poulet Cantal", "prix": 11.50, "description": "Burger poulet montagnard, cantal, pommes de terre", "calories": 780, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"]}
+    ],
+    "Burgers Poisson": [
+      {"nom": "King Fish", "prix": 3.90, "description": "Poisson pané, salade, sauce tartare", "calories": 510, "allergenes": ["gluten", "lait", "oeuf", "poisson", "soja", "moutarde"], "traces": ["sesame"]},
+      {"nom": "Big Fish", "prix": 6.50, "description": "Grand filet de poisson pané, salade, sauce tartare", "calories": 450, "allergenes": ["gluten", "lait", "oeuf", "poisson", "soja", "moutarde"], "traces": ["sesame"]},
+      {"nom": "Double Big Fish", "prix": 7.50, "description": "Double filet de poisson pané", "calories": 580, "allergenes": ["gluten", "lait", "oeuf", "poisson", "soja", "moutarde"], "traces": ["sesame"]}
+    ],
+    "Veggie": [
+      {"nom": "Veggie Whopper", "prix": 7.90, "description": "Burger végétal, tomate, salade, oignon, cornichons, mayonnaise", "calories": 420, "allergenes": ["gluten", "oeuf", "soja"], "traces": ["lait", "sesame"], "ingredients": ["pain sesame", "galette végétale (soja, ble)", "tomate", "salade", "oignon", "cornichons", "mayonnaise"]},
+      {"nom": "Veggie Steakhouse", "prix": 8.90, "description": "Burger végétal, cheddar, oignons frits, sauce BBQ", "calories": 500, "allergenes": ["gluten", "lait", "oeuf", "soja", "moutarde"], "traces": ["sesame"]},
+      {"nom": "Wrap Crousty Chèvre", "prix": 6.90, "description": "Wrap chèvre, salade, tomate", "calories": 350, "allergenes": ["gluten", "lait"], "traces": ["oeuf", "soja", "sesame"]},
+      {"nom": "Caesar Cheesy Bowl", "prix": 8.70, "description": "Bowl césar végétarien, fromage, salade, croûtons", "calories": 380, "allergenes": ["gluten", "lait", "oeuf"], "traces": ["soja"]}
+    ],
+    "Wraps & Salades": [
+      {"nom": "Wrap Chicken Cheese & Bacon", "prix": 6.90, "description": "Wrap poulet, cheddar, bacon de poulet", "calories": 420, "allergenes": ["gluten", "lait", "moutarde"], "traces": ["oeuf", "soja"]},
+      {"nom": "Wrap Chicken Louisiane", "prix": 6.90, "description": "Wrap poulet épicé, sauce Louisiane", "calories": 400, "allergenes": ["gluten", "lait", "oeuf", "soja"], "traces": ["moutarde"]},
+      {"nom": "Caesar Chicken Bowl", "prix": 8.70, "description": "Bowl césar au poulet", "calories": 410, "allergenes": ["gluten", "lait", "oeuf", "moutarde"], "traces": ["soja"]}
+    ],
+    "Menus": [
+      {"nom": "Menu Whopper", "prix": 10.90, "description": "Whopper + frites moyennes + boisson", "calories": 1020},
+      {"nom": "Menu Whopper Cheese", "prix": 11.50, "description": "Whopper Cheese + frites + boisson", "calories": 1100},
+      {"nom": "Menu Big King", "prix": 9.90, "description": "Big King + frites + boisson", "calories": 893},
+      {"nom": "Menu Big King XXL", "prix": 12.90, "description": "Big King XXL + frites + boisson", "calories": 1200},
+      {"nom": "Menu Steakhouse", "prix": 11.95, "description": "Steakhouse + frites + boisson", "calories": 1158},
+      {"nom": "Menu Double Steakhouse", "prix": 13.99, "description": "Double Steakhouse + frites + boisson", "calories": 1300},
+      {"nom": "Menu Long Chicken", "prix": 9.50, "description": "Long Chicken + frites + boisson", "calories": 933},
+      {"nom": "Menu Double Whopper Cheese", "prix": 12.90, "description": "Double Whopper Cheese + frites + boisson", "calories": 1300},
+      {"nom": "Menu Hellfire Club", "prix": 11.90, "description": "Hellfire Club + frites + boisson", "calories": 1050},
+      {"nom": "Menu Veggie Whopper", "prix": 10.90, "description": "Veggie Whopper + frites + boisson", "calories": 780},
+      {"nom": "Menu Big Fish", "prix": 10.00, "description": "Big Fish + frites + boisson", "calories": 810},
+      {"nom": "Menu Chicken Louisiane Steakhouse", "prix": 12.90, "description": "Chicken Louisiane Steakhouse + frites + boisson", "calories": 1040},
+      {"nom": "Menu Double Cheese Bacon XXL", "prix": 13.95, "description": "Double Cheese Bacon XXL + frites + boisson", "calories": 1060},
+      {"nom": "Menu Master Montagnard", "prix": 14.30, "description": "Master Montagnard + frites + boisson", "calories": 1200},
+      {"nom": "Menu Bon Et Pas Cher Double King", "prix": 5.00, "description": "Double King + petite frite + petite boisson, entrée de gamme", "calories": 600},
+      {"nom": "Menu Bon Et Pas Cher Chicken", "prix": 5.00, "description": "King Chicken + petite frite + petite boisson", "calories": 580},
+      {"nom": "Menu Bon Et Pas Cher Fish", "prix": 5.00, "description": "King Fish + petite frite + petite boisson", "calories": 590}
+    ],
+    "Enfants": [
+      {"nom": "King Junior", "prix": 4.00, "description": "Mini burger/finger food + accompagnement + boisson + jouet", "calories": 350},
+      {"nom": "King Jr +", "prix": 5.50, "description": "Menu enfant supérieur + boisson + jouet", "calories": 480}
+    ],
+    "Snacks": [
+      {"nom": "King Nuggets (4)", "prix": 3.80, "description": "4 nuggets de poulet", "calories": 175, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]},
+      {"nom": "King Nuggets (7)", "prix": 5.90, "description": "7 nuggets de poulet", "calories": 300, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]},
+      {"nom": "King Nuggets (10)", "prix": 6.90, "description": "10 nuggets de poulet", "calories": 430, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]},
+      {"nom": "Krispper Tenders X2", "prix": 3.90, "description": "2 tenders de poulet croustillants", "calories": 180, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]},
+      {"nom": "Krispper Tenders X5", "prix": 8.50, "description": "5 tenders de poulet croustillants", "calories": 450, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]},
+      {"nom": "Krispper Tenders X10", "prix": 16.90, "description": "10 tenders de poulet croustillants, format familial", "calories": 900, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]},
+      {"nom": "Chili Cheese (4)", "prix": 4.10, "description": "4 chili cheese", "calories": 240, "allergenes": ["gluten", "lait"], "traces": ["soja"]},
+      {"nom": "Chili Cheese (6)", "prix": 5.90, "description": "6 chili cheese", "calories": 360, "allergenes": ["gluten", "lait"], "traces": ["soja"]},
+      {"nom": "Chili Cheese (9)", "prix": 6.90, "description": "9 chili cheese", "calories": 540, "allergenes": ["gluten", "lait"], "traces": ["soja"]},
+      {"nom": "Onion Rings (6)", "prix": 2.60, "description": "6 onion rings", "calories": 275, "allergenes": ["gluten", "soja"], "traces": ["lait", "oeuf"]},
+      {"nom": "Onion Rings (9)", "prix": 3.10, "description": "9 onion rings", "calories": 410, "allergenes": ["gluten", "soja"], "traces": ["lait", "oeuf"]},
+      {"nom": "Crousty Chèvre (4)", "prix": 4.20, "description": "4 croustillants au chèvre", "calories": 220, "allergenes": ["gluten", "lait"], "traces": ["oeuf"]},
+      {"nom": "Crousty Chèvre (6)", "prix": 5.90, "description": "6 croustillants au chèvre", "calories": 330, "allergenes": ["gluten", "lait"], "traces": ["oeuf"]},
+      {"nom": "King Onion Raclette & Bacon", "prix": 4.00, "description": "Onion rings raclette bacon", "calories": 280, "allergenes": ["gluten", "lait"], "traces": ["oeuf"]},
+      {"nom": "Petit Toasté Raclette & Bacon", "prix": 3.90, "description": "Petit toasté raclette bacon", "calories": 250, "allergenes": ["gluten", "lait"]}
+    ],
+    "Frites & Accompagnements": [
+      {"nom": "Petites Frites", "prix": 2.70, "description": "Petite portion de frites", "calories": 195},
+      {"nom": "Moyennes Frites", "prix": 3.20, "description": "Moyenne portion de frites", "calories": 260},
+      {"nom": "Grandes Frites", "prix": 3.60, "description": "Grande portion de frites", "calories": 370},
+      {"nom": "King Fries Cheddar & Crispy Onions", "prix": 4.00, "description": "Frites cheddar et oignons croustillants", "calories": 480, "allergenes": ["gluten", "lait"]},
+      {"nom": "King Fries Double Cheddar", "prix": 4.00, "description": "Frites double cheddar", "calories": 470, "allergenes": ["lait"]},
+      {"nom": "King Fries Cheddar & Bacon", "prix": 4.00, "description": "Frites cheddar et bacon", "calories": 490, "allergenes": ["gluten", "lait", "soja"]}
+    ],
+    "Kingbox": [
+      {"nom": "Kingbox 20 King Nuggets", "prix": 10.95, "description": "20 nuggets à partager", "calories": 860, "allergenes": ["gluten", "soja"], "traces": ["lait", "moutarde"]},
+      {"nom": "Kingbox 10 Onion Rings + 10 Chili Cheese", "prix": 10.95, "description": "10 onion rings + 10 chili cheese", "calories": 850, "allergenes": ["gluten", "lait", "soja"]},
+      {"nom": "Kingbox 10 Nuggets + 10 Chili Cheese", "prix": 10.95, "description": "10 nuggets + 10 chili cheese", "calories": 870, "allergenes": ["gluten", "lait", "soja"]},
+      {"nom": "Kingbox 10 Onion Rings + 10 Nuggets", "prix": 10.95, "description": "10 onion rings + 10 nuggets", "calories": 840, "allergenes": ["gluten", "soja"]}
+    ],
+    "Desserts": [
+      {"nom": "King Sundae Chocolat", "prix": 2.99, "description": "Sundae au chocolat", "calories": 250, "allergenes": ["lait", "soja"]},
+      {"nom": "King Sundae Caramel", "prix": 2.99, "description": "Sundae au caramel", "calories": 245, "allergenes": ["lait"]},
+      {"nom": "King Sundae Vanille", "prix": 2.99, "description": "Sundae à la vanille", "calories": 230, "allergenes": ["lait"]},
+      {"nom": "King Fusion Oreo", "prix": 4.00, "description": "Glace mixée Oreo", "calories": 295, "allergenes": ["lait", "soja", "gluten"]},
+      {"nom": "King Fusion M&M's", "prix": 4.00, "description": "Glace mixée M&M's", "calories": 310, "allergenes": ["lait", "soja", "arachides"]},
+      {"nom": "King Fusion Snickers", "prix": 4.00, "description": "Glace mixée Snickers", "calories": 330, "allergenes": ["lait", "soja", "arachides", "gluten"]},
+      {"nom": "King Fusion Nutella", "prix": 4.00, "description": "Glace mixée Nutella", "calories": 350, "allergenes": ["lait", "soja", "noisettes"]},
+      {"nom": "King Fusion Spéculoos", "prix": 4.00, "description": "Glace mixée Spéculoos Lotus Biscoff", "calories": 320, "allergenes": ["lait", "soja", "gluten"]},
+      {"nom": "King Fusion Eleven", "prix": 4.00, "description": "Glace mixée édition limitée", "calories": 300, "allergenes": ["lait", "soja"]},
+      {"nom": "King Fusion Dubaï Style", "prix": 4.00, "description": "Glace mixée façon Dubaï", "calories": 340, "allergenes": ["lait", "soja", "fruits_coque"]},
+      {"nom": "Mini King Fusion KitKat", "prix": 2.05, "description": "Mini glace mixée KitKat", "calories": 160, "allergenes": ["lait", "soja", "gluten"]},
+      {"nom": "Donut Chocolat Noisette", "prix": 2.90, "description": "Donut au chocolat noisette", "calories": 280, "allergenes": ["gluten", "lait", "oeuf", "soja", "noisettes"]},
+      {"nom": "Donut Spéculoos", "prix": 2.90, "description": "Donut au spéculoos Lotus Biscoff", "calories": 290, "allergenes": ["gluten", "lait", "oeuf", "soja"]},
+      {"nom": "Cookie Duo Chocolat", "prix": 3.10, "description": "Cookie aux pépites de chocolat", "calories": 210, "allergenes": ["gluten", "lait", "oeuf", "soja"]},
+      {"nom": "Muffin Oreo", "prix": 3.90, "description": "Muffin à l'Oreo", "calories": 320, "allergenes": ["gluten", "lait", "oeuf", "soja"]},
+      {"nom": "Mini Donut Uno", "prix": 1.90, "description": "Mini donut", "calories": 140, "allergenes": ["gluten", "lait", "oeuf", "soja"]}
+    ],
+    "Boissons": [
+      {"nom": "Coca-Cola (25cl)", "prix": 2.50, "calories": 105},
+      {"nom": "Coca-Cola (40cl)", "prix": 3.05, "calories": 170},
+      {"nom": "Coca-Cola (50cl)", "prix": 3.45, "calories": 210},
+      {"nom": "Coca-Cola Zéro (25cl)", "prix": 2.50, "calories": 1},
+      {"nom": "Coca-Cola Zéro (40cl)", "prix": 3.05, "calories": 1},
+      {"nom": "Coca-Cola Zéro (50cl)", "prix": 3.45, "calories": 1},
+      {"nom": "Sprite (25cl)", "prix": 2.50, "calories": 100},
+      {"nom": "Fanta (25cl)", "prix": 2.50, "calories": 105},
+      {"nom": "Fuze Tea Pêche (25cl)", "prix": 2.50, "calories": 80},
+      {"nom": "Oasis Tropical (25cl)", "prix": 2.50, "calories": 90},
+      {"nom": "Vittel (33cl)", "prix": 2.80, "calories": 0},
+      {"nom": "Perrier (33cl)", "prix": 2.70, "calories": 0},
+      {"nom": "Minute Maid Pomme (20cl)", "prix": 2.50, "calories": 90}
+    ],
+    "Boissons Chaudes": [
+      {"nom": "Expresso", "prix": 1.65, "calories": 5},
+      {"nom": "Double Expresso", "prix": 2.10, "calories": 10},
+      {"nom": "Café Allongé", "prix": 1.90, "calories": 5},
+      {"nom": "Cappuccino", "prix": 2.60, "calories": 80, "allergenes": ["lait"]},
+      {"nom": "Café Latté", "prix": 2.30, "calories": 60, "allergenes": ["lait"]},
+      {"nom": "Boisson Cacaotée", "prix": 2.20, "calories": 120, "allergenes": ["lait", "soja"]},
+      {"nom": "Thé Vert Menthe", "prix": 2.10, "calories": 2},
+      {"nom": "Thé Earl Grey", "prix": 2.10, "calories": 2}
+    ],
+    "Sauces": [
+      {"nom": "Ketchup", "prix": 0.20, "calories": 10},
+      {"nom": "Mayonnaise", "prix": 0.40, "calories": 90, "allergenes": ["oeuf", "moutarde"]},
+      {"nom": "Barbecue", "prix": 0.40, "calories": 25, "allergenes": ["moutarde"]},
+      {"nom": "Creamy Ranch", "prix": 0.40, "calories": 70, "allergenes": ["lait", "oeuf"]},
+      {"nom": "Sauce 1954", "prix": 0.40, "calories": 65, "allergenes": ["oeuf", "moutarde"]},
+      {"nom": "Spicy Andalouse", "prix": 0.40, "calories": 55, "allergenes": ["oeuf", "moutarde"]},
+      {"nom": "Moutarde Miel", "prix": 0.40, "calories": 30, "allergenes": ["moutarde"]},
+      {"nom": "Smoky Bacon Flavor", "prix": 0.40, "calories": 50, "allergenes": ["moutarde"]}
+    ]
+  },
+  "promotions": [
+    {"titre": "Menu Bon Et Pas Cher à 5€", "description": "Double King / Chicken / Fish + petite frite + petite boisson pour seulement 5€. Offre du moment.", "prix": 5.00},
+    {"titre": "Application Kingdom", "description": "Téléchargez l'app Burger King France pour cumuler des couronnes (2€ = 1 couronne) et les échanger contre des produits gratuits. Offre anniversaire offerte.", "prix": null},
+    {"titre": "Baby Burgers X3", "description": "3 mini burgers boeuf à partir de 9.90€", "prix": 9.90},
+    {"titre": "Baby Burgers X9", "description": "9 mini burgers boeuf, format familial 26.90€", "prix": 26.90},
+    {"titre": "Menu Baby Burgers X3", "description": "3 mini burgers + frites + boisson 12.90€", "prix": 12.90},
+    {"titre": "Menu Baby Burgers X9", "description": "9 mini burgers + frites + boisson 31.90€, à partager", "prix": 31.90}
+  ],
+  "horaires": {
+    "sur_place": {"lundi": "10:30-23:00", "mardi": "10:30-23:00", "mercredi": "10:30-23:00", "jeudi": "10:30-23:00", "vendredi": "10:30-23:00", "samedi": "10:30-23:00", "dimanche": "10:30-23:00"},
+    "drive": {"lundi": "10:30-00:00", "mardi": "10:30-00:00", "mercredi": "10:30-00:00", "jeudi": "10:30-00:00", "vendredi": "10:30-00:00", "samedi": "10:30-00:00", "dimanche": "10:30-00:00"},
+    "click_and_collect": {"lundi": "10:45-23:30", "mardi": "10:45-23:30", "mercredi": "10:45-23:30", "jeudi": "10:45-23:30", "vendredi": "10:45-23:30", "samedi": "10:45-23:30", "dimanche": "10:45-23:30"},
+    "delivery": {"lundi": "10:45-23:15", "mardi": "10:45-23:15", "mercredi": "10:45-23:15", "jeudi": "10:45-23:15", "vendredi": "10:45-23:15", "samedi": "10:45-23:15", "dimanche": "10:45-23:15"}
+  },
+  "services": ["Wi-Fi gratuit", "Parking", "Terrasse", "Aire de jeux", "Accessible PMR", "Drive", "Click & Collect", "King Delivery", "Application mobile (Kingdom)", "Climatisation", "Service au volant", "Plats à emporter", "Carte cadeau"]
+}
